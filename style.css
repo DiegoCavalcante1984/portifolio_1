@@ -25,6 +25,11 @@ a{
   color: #737373;
   text-decoration: none;
   margin-right:30px;
+  transition: 400ms;
+}
+a:hover{
+  color: #9c9b9b;
+  
 }
 a:before{
   width:10px;
@@ -42,7 +47,11 @@ a:before{
   margin-right:0;
   line-height:60px;
   box-shadow:2px 2px 1px rgba(253, 140, 2, 0.472); 
+  transition: 400ms ease-in-out;
+
 }
 #btn:hover{
-  background-color: #404040cc;
+  background-color: #686767cc;
+  transform: scale(1.08);
+
 }
