@@ -1,0 +1,13 @@
+#box{
+display:inline-block;
+background-color:#111111;  
+border-radius:4px;
+text-align: center;
+padding:15px 40px;
+
+}
+#box h1{
+ margin-bottom:15px;
+ 
+
+}
